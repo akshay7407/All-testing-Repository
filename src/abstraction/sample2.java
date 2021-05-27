@@ -8,7 +8,7 @@ public class sample2 implements sample1 {
 	}
 
 	public void sql() {
-		System.out.println("sql is the second fumction ");		
+		System.out.println("sql is the second fumctionn ");		
 		
 	}
 
